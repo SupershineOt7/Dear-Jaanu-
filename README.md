@@ -1,25 +1,3 @@
 # Dear-Jaanu-❤️🥹
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Please Forgive Me🥺💌</title>
-  <style>
-    body { background-color: #ffe6f0; text-align: center; font-family: 'Comic Sans MS'; }
-    h1 { color: #ff4081; }
-    p { font-size: 20px; color: #333; }
-    button { background-color: #ff4081; color: white; border: none; padding: 10px 20px; border-radius: 10px; cursor: pointer; }
-  </style>
-  <script>
-    function showMessage() {
-      alert("JAANU MAI SORRY HU🥹🥹");
-    }
-  </script>
-</head>
-<body>
-  <h1>Hey [MY SUNFLOWEEEE🥹🌻] 💫</h1>
-  <p>I made this little page just to say…</p>
-  <button onclick="showMessage(I’m really sorry Jannu💖 Please forgive me na🥺I know you are angry, mai to choti si nadaan bacchi hoon na...teri baby hu na...I promise i'll annoy you less.. bhot less but loveee you morreeeee na ❤️
-I LOVE UHH MY JULABBB JAMUNNNNN ❤️🥹MUAHHH MUAHHH 💋💋🤌🏻❤️🥹🥹)">Click Me</button>
-  <p>Because I miss you more than words 💌</p>
-</body>
-</html>
+I’m really sorry Jannu💖 Please forgive me na🥺I know you are angry, mai to choti si nadaan bacchi hoon na...teri baby hu na...I promise i'll annoy you less.. bhot less but loveee you morreeeee na ❤️
+I LOVE UHH MY JULABBB JAMUNNNNN ❤️🥹MUAHHH MUAHHH 💋💋🤌🏻❤️🥹🥹
